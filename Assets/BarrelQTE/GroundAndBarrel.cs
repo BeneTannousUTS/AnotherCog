@@ -19,6 +19,7 @@ public class GroundAndBarrel : MonoBehaviour
         {
             Instantiate(ground).transform.position = gameObject.transform.position;
             Instantiate(barrel).transform.position = gameObject.transform.position + new Vector3(0,0.25f,0);
+            Instantiate(barrel).transform.position = gameObject.transform.position + new Vector3(-1.5f, 0.25f, 0);
             timer = 0;
         }
     }

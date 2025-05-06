@@ -1,11 +1,16 @@
 using System.Collections;
+using UnityEditor.UI;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
+using UnityEngine.UI;
 
 public class BarrelQTE : MonoBehaviour
 {
     public Animator animator;
     private bool Jumping;
     private bool IsJumping = false;
+    private int score;
+    public Text scoreHud;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,6 +33,11 @@ public class BarrelQTE : MonoBehaviour
         if (!Jumping)
         {
             Destroy(other.gameObject);
+        }
+        if (Jumping)
+        {
+            score += 1;
+            scoreHud.text = "Barrels Jumped: " + score.ToString() + "/3";
         }
     }
 
