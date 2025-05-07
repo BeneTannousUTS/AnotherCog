@@ -9,7 +9,7 @@ public class BarrelQTE : MonoBehaviour
     public Animator animator;
     private bool Jumping;
     private bool IsJumping = false;
-    private int score;
+    private float score;
     public Text scoreHud;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -36,8 +36,14 @@ public class BarrelQTE : MonoBehaviour
         }
         if (Jumping)
         {
-            score += 1;
+            score += 0.5f;
             scoreHud.text = "Barrels Jumped: " + score.ToString() + "/3";
+        }
+
+        if (score >= 3)
+        {
+            GameObject.FindAnyObjectByType<GroundAndBarrel>().spawn = false;
+            GameObject.FindAnyObjectByType<GroundAndBarrel>().SpawnPipe();
         }
     }
 

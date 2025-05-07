@@ -3,6 +3,7 @@ using UnityEngine;
 public class MoveForwards : MonoBehaviour
 {
     public int speed;
+    public bool teleport;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -13,9 +14,16 @@ public class MoveForwards : MonoBehaviour
     private void FixedUpdate()
     {
         transform.Translate(Vector3.back/speed);
-        if (transform.position.z < -30)
+        if (transform.position.z < -75)
         {
-            Destroy(gameObject);
+            if (teleport)
+            {
+                gameObject.transform.position += new Vector3(0, 0, 200);
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
         }
     }
 }
