@@ -151,6 +151,7 @@ MonoBehaviour:
   workerAnim: {fileID: 5866666020832497633}
   cogAnim: {fileID: 1980717404}
   bossAnim: {fileID: 755843550}
+  bossHead: {fileID: 1185600864}
   fallAvatar: {fileID: 9000000, guid: 679db0bb1205f4f43a1b22cda120eac9, type: 3}
 --- !u!4 &84835727
 Transform:
@@ -961,6 +962,8 @@ PlayableDirector:
     value: {fileID: 723631997}
   - key: {fileID: -5522755082207656960, guid: c964f599b141498428f83cffccdd5db5, type: 2}
     value: {fileID: 2050394234}
+  - key: {fileID: -7540522758270400118, guid: c964f599b141498428f83cffccdd5db5, type: 2}
+    value: {fileID: 755843549}
   m_ExposedReferences:
     m_References:
     - 96ced4cd61b01b6488dcd4fed0a3556a: {fileID: 2131183816}
@@ -1063,6 +1066,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 1272120677}
   weight: 1
+--- !u!1 &1185600864 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -817116256555897901, guid: 8c7d9e61325d04b4c8a0523a8fead43c, type: 3}
+  m_PrefabInstance: {fileID: 1697020099}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1272120677
 GameObject:
   m_ObjectHideFlags: 0
@@ -1384,7 +1392,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 8c7d9e61325d04b4c8a0523a8fead43c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -50.709
+      value: -50.409
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8c7d9e61325d04b4c8a0523a8fead43c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1392,7 +1400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8c7d9e61325d04b4c8a0523a8fead43c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.797
+      value: -1.552
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8c7d9e61325d04b4c8a0523a8fead43c, type: 3}
       propertyPath: m_LocalRotation.w
