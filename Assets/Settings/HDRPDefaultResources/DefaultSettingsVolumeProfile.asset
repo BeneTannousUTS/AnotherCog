@@ -695,7 +695,7 @@ MonoBehaviour:
     m_Value: {r: 0, g: 0, b: 1, a: 1}
   middle:
     m_OverrideState: 1
-    m_Value: {r: 0.3, g: 0.7, b: 1, a: 1}
+    m_Value: {r: 0.24056602, g: 0.67331606, b: 1, a: 1}
   bottom:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -2371,7 +2371,7 @@ MonoBehaviour:
   interCascadeBorders: 1
   maxShadowDistance:
     m_OverrideState: 1
-    m_Value: 150
+    m_Value: 12
   directionalTransmissionMultiplier:
     m_OverrideState: 1
     m_Value: 1

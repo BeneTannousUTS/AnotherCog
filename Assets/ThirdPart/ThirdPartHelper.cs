@@ -21,7 +21,7 @@ public class ThirdPartHelper : MonoBehaviour
         cogAnim.speed = Mathf.Lerp(1, 0, t / 17);
         t += Time.deltaTime;
         if (isLookingAtBoss) {
-            workerAnim.transform.GetComponent<IKLookAt>().weight = Mathf.Lerp(0,1, bossT/2);
+            workerAnim.transform.GetComponent<IKLookAt>().weight = Mathf.Lerp(0,1, bossT/4);
             bossT += Time.deltaTime;
         }
     }
