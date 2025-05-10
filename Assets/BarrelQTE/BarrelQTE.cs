@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.Cinemachine;
 using UnityEditor.UI;
 using UnityEngine;
 using UnityEngine.SocialPlatforms.Impl;
@@ -11,6 +12,9 @@ public class BarrelQTE : MonoBehaviour
     private bool IsJumping = false;
     private float score;
     public Text scoreHud;
+    public ParticleSystem par;
+    public CinemachineCamera cam1;
+    public CinemachineCamera cam2;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -32,7 +36,7 @@ public class BarrelQTE : MonoBehaviour
     {
         if (!Jumping)
         {
-            Destroy(other.gameObject);
+            animator.SetTrigger("fall");
         }
         if (Jumping)
         {
@@ -49,11 +53,13 @@ public class BarrelQTE : MonoBehaviour
 
     IEnumerator jump()
     {
+        cam1.Priority = 2;
         yield return new WaitForSeconds(0.200f);
         Jumping = true;
         yield return new WaitForSeconds(0.300f);
         Jumping =false;
         yield return new WaitForSeconds(0.367f);
         IsJumping = false;
+        cam1.Priority = 0;
     }
 }
