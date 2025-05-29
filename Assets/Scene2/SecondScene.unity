@@ -9564,7 +9564,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: ffa1b6389e3ddd743a6137206376f846, type: 2}
     - target: {fileID: 4212741183242587830, guid: d90fc0d1dafa72a44acb57b7c8ee99e4, type: 3}
       propertyPath: m_AnimatePhysics
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4212741183242587830, guid: d90fc0d1dafa72a44acb57b7c8ee99e4, type: 3}
       propertyPath: m_ApplyRootMotion
@@ -10589,7 +10589,7 @@ PlayableDirector:
     value: {fileID: 353453927}
   - key: {fileID: 8593314948336330704, guid: a781ae3e5bb05d448a357f66414b0ff8, type: 2}
     value: {fileID: 809858739}
-  - key: {fileID: 5118007731477288203, guid: a781ae3e5bb05d448a357f66414b0ff8, type: 2}
+  - key: {fileID: 0}
     value: {fileID: 940307415}
   - key: {fileID: 365184582509008360, guid: a781ae3e5bb05d448a357f66414b0ff8, type: 2}
     value: {fileID: 307083375}
@@ -12674,6 +12674,7 @@ MonoBehaviour:
   m_Events:
     m_Signals:
     - {fileID: 11400000, guid: 791dca67a18859743b8b393153597cae, type: 2}
+    - {fileID: 11400000, guid: a09b9b8263d070649a9c4e9901d1fc0a, type: 2}
     m_Events:
     - m_PersistentCalls:
         m_Calls:
@@ -12700,6 +12701,32 @@ MonoBehaviour:
             m_FloatArgument: 0
             m_StringArgument: 
             m_BoolArgument: 1
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1478063327}
+          m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 1478063321}
+          m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+          m_MethodName: 
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: 
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
           m_CallState: 2
 --- !u!1001 &1481861220
 PrefabInstance:
