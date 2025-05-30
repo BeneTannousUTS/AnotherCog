@@ -15,10 +15,15 @@ public class BarrelQTE : MonoBehaviour
     public ParticleSystem par;
     public CinemachineCamera cam1;
     public CinemachineCamera cam2;
+    AudioSource source;
+    AudioClip clip1;
+    public AudioClip clip2;
+    public AudioClip clip3;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        source = gameObject.GetComponent<AudioSource>();
+        clip1 = source.clip;
     }
 
     // Update is called once per frame
@@ -36,6 +41,10 @@ public class BarrelQTE : MonoBehaviour
     {
         if (!Jumping)
         {
+            source.clip = clip3;
+            source.loop = false;
+            source.Play();
+            StartCoroutine(roll());
             animator.SetTrigger("fall");
         }
         if (Jumping)
@@ -51,13 +60,33 @@ public class BarrelQTE : MonoBehaviour
         }
     }
 
+
+    IEnumerator roll()
+    {
+        CinemachineBasicMultiChannelPerlin a = cam1.GetComponent<CinemachineBasicMultiChannelPerlin>();
+        CinemachineBasicMultiChannelPerlin b = cam2.GetComponent<CinemachineBasicMultiChannelPerlin>();
+        a.AmplitudeGain = 3;
+        b.AmplitudeGain = 3;
+        yield return new WaitForSeconds(1);
+        source.clip = clip1;
+        source.loop = true;
+        source.Play();
+        a.AmplitudeGain = 0;
+        b.AmplitudeGain = 0;
+    }
     IEnumerator jump()
     {
+        source.clip = clip2;
+        source.loop = false;
+        source.Play();
         cam1.Priority = 2;
         yield return new WaitForSeconds(0.200f);
         Jumping = true;
         yield return new WaitForSeconds(0.300f);
         Jumping =false;
+        source.clip = clip1;
+        source.loop = true;
+        source.Play();
         yield return new WaitForSeconds(0.367f);
         IsJumping = false;
         cam1.Priority = 0;
