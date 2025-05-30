@@ -11,6 +11,7 @@ public class ThirdPartHelper : MonoBehaviour
     private bool isLookingAtBoss, isFadeOut;
     public GameObject fireworks, cat1, cat2;
     public AudioSource catsource;
+    public AudioSource catsource2;
     public AudioClip catclip;
     public GameObject mask;
     private float maskSize = 2000f;
@@ -67,12 +68,16 @@ public class ThirdPartHelper : MonoBehaviour
     public IEnumerator CatSounds() {
         catsource.PlayOneShot(catclip);
         yield return new WaitForSeconds(0.5f);
+        catsource2.pitch = 0.8f;
+        catsource2.PlayOneShot(catclip);
+        yield return new WaitForSeconds(0.5f);
+        catsource.pitch = 1.1f;
         catsource.PlayOneShot(catclip);
         yield return new WaitForSeconds(0.5f);
-        catsource.PlayOneShot(catclip);
+        catsource2.pitch = 1.25f;
+        catsource2.PlayOneShot(catclip);
         yield return new WaitForSeconds(0.5f);
-        catsource.PlayOneShot(catclip);
-        yield return new WaitForSeconds(0.5f);
+        catsource.pitch = 0.9f;
         catsource.PlayOneShot(catclip);
         yield return new WaitForSeconds(0.5f);
     }
