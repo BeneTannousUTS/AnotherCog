@@ -6,11 +6,13 @@ TagManager:
   tags:
   - Pipe
   - Jump
+  - Gear
+  - Floor
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - FloorOnly
   - Water
   - UI
   - 
