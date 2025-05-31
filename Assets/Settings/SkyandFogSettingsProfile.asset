@@ -294,6 +294,34 @@ MonoBehaviour:
   maxNits:
     m_OverrideState: 1
     m_Value: 1000
+--- !u!114 &-5028802787830589541
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e5f3a6b11e531747b02cb234f13eb86, type: 3}
+  m_Name: Cavity
+  m_EditorClassIdentifier: 
+  active: 1
+  intensity:
+    m_OverrideState: 1
+    m_Value: 1
+  radius:
+    m_OverrideState: 1
+    m_Value: 1
+  angleSensitivity:
+    m_OverrideState: 1
+    m_Value: 2.5
+  edgeIntensityMultiplier:
+    m_OverrideState: 1
+    m_Value: 0.6
+  sharpness:
+    m_OverrideState: 1
+    m_Value: 0.9
 --- !u!114 &-4785244176202626022
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -981,6 +1009,7 @@ MonoBehaviour:
   - {fileID: 6573622548509737134}
   - {fileID: 7586322570630121876}
   - {fileID: 7854493329980643672}
+  - {fileID: -5028802787830589541}
 --- !u!114 &1142777632297148762
 MonoBehaviour:
   m_ObjectHideFlags: 3

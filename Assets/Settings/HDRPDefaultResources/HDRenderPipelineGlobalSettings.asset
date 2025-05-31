@@ -310,7 +310,8 @@ MonoBehaviour:
           m_CustomPostProcessTypesAsString: []
         m_BeforeTAACustomPostProcesses:
           m_InjectionPoint: 3
-          m_CustomPostProcessTypesAsString: []
+          m_CustomPostProcessTypesAsString:
+          - Cavity, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
         m_BeforePostProcessCustomPostProcesses:
           m_InjectionPoint: 1
           m_CustomPostProcessTypesAsString: []
