@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7efa49cf-bd83-48af-9d83-eb90e0ad5367" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Worker/StrafeLeft.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Worker/StrafeLeft.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Worker/StrafeRight.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Worker/StrafeRight.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank4.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Basic/Plank5.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank4.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Dark/Plank5.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank4.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Light/Plank5.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank4.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Game Assets/Aegis77/Wooden Planks/Prefabs/Weathered/Plank5.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CanisterCatcher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CanisterCatcher.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CatchIKPose.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CatchIKPose.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CogHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CogHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DeactivateHandIK.signal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DeactivateHandIK.signal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DeactivateHeadIK.signal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DeactivateHeadIK.signal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/QTEWorker.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/QTEWorker.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Scripts/KnockAndSplash.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/Scripts/KnockAndSplash.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Scripts/MoveLeftAndRight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/Scripts/MoveLeftAndRight.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/SecondScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/SecondScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Timeline/Scene2Timeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/Timeline/Scene2Timeline.playable" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SetPosition.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SetPosition.cs.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="7efa49cf-bd83-48af-9d83-eb90e0ad5367" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
