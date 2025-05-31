@@ -8,6 +8,7 @@ TagManager:
   - Jump
   - Gear
   - Floor
+  - Canister
   layers:
   - Default
   - TransparentFX

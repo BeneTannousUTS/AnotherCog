@@ -23,6 +23,11 @@ public class Scene2IK : MonoBehaviour
     {
         weight = 1;
     }
+    
+    public void TurnOffTracking()
+    {
+        weight = 0;
+    }
 
     private void OnAnimatorIK(int layerIndex)
     {

@@ -6,15 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="7efa49cf-bd83-48af-9d83-eb90e0ad5367" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Activate animator.signal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Activate animator.signal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/DeactivateAnimator.signal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/DeactivateAnimator.signal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/LookAtCog.signal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/LookAtCog.signal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Scene2IK.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Scene2IK.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Worker/Idle.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Worker/Idle.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Worker.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Worker.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/FirstPersonCamera.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/FirstPersonCamera.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/GearAnim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/GearAnim.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/GearRoll.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/GearRoll.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Scripts/KnockAndSplash.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/Scripts/KnockAndSplash.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Scripts/Scene2IK.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/Scripts/Scene2IK.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scene2/SecondScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/SecondScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Timeline/Scene2Timeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/Timeline/Scene2Timeline.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/ZoomCamera.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/ZoomCamera.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@d2dd9a51ead3/Runtime/Material/Decal/Decal.shader" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@c58b4ee65782/Runtime/Events/Signals/CustomSignalEventDrawer.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -40,7 +42,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;second-part&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -109,6 +111,9 @@
       <workItem from="1748614695943" duration="4000" />
       <workItem from="1748614719492" duration="5889000" />
       <workItem from="1748632600764" duration="2000" />
+      <workItem from="1748692398535" duration="644000" />
+      <workItem from="1748693622806" duration="6491000" />
+      <workItem from="1748704612026" duration="11436000" />
     </task>
     <servers />
   </component>

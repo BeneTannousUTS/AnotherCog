@@ -7,7 +7,13 @@ public class KnockAndSplash : MonoBehaviour
     private Collider canisterCollider;
 
     public GameObject splashPrefab;
+    public bool isCaught = false;
+    public Transform placeCaughtCanister;
+    public bool canBeCaught = true;
     
+    [HideInInspector] public Vector3 targetPosition;
+    [HideInInspector] public Quaternion targetRotation;
+    public float lerpSpeed = 8f;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,9 +29,10 @@ public class KnockAndSplash : MonoBehaviour
 
     void OnCollisionEnter(Collision collider)
     {
-        if (collider.gameObject.CompareTag("Floor"))
+        if (collider.gameObject.CompareTag("Floor") && !isCaught)
         {
             MakeSplashDecal(collider.GetContact(0));
+            canBeCaught = false;
         }
     }
     
