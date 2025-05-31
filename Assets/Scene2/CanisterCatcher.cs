@@ -23,11 +23,28 @@ public class CanisterCatcher : MonoBehaviour
             canister.GetComponent<Rigidbody>().useGravity = false;
             canister.GetComponent<KnockAndSplash>().isCaught = true;
             caught++;
+            PlayCatchSound();
         }
     }
 
     public int GetCaught()
     {
         return caught;
+    }
+    
+    public AudioClip catchClip;
+    public AudioSource audioSource;
+
+    void Awake()
+    {
+        if (!audioSource)
+            audioSource = GetComponent<AudioSource>();
+    }
+    
+    public void PlayCatchSound()
+    {
+        if (catchClip == null || audioSource == null) return;
+        
+        audioSource.PlayOneShot(catchClip);
     }
 }

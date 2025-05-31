@@ -15,6 +15,9 @@ public class KnockAndSplash : MonoBehaviour
     [HideInInspector] public Quaternion targetRotation;
     public float lerpSpeed = 8f;
     
+    public AudioClip fallClip;
+    public AudioSource audioSource;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -42,6 +45,14 @@ public class KnockAndSplash : MonoBehaviour
         GameObject splash = Instantiate(splashPrefab, contact.point, Quaternion.Euler(90, 0, 0));
         splash.GetComponent<DecalProjector>().size = Vector3.zero;
         StartCoroutine(ScaleDecalOverTime(splash));
+        PlayFallSound();
+    }
+    
+    public void PlayFallSound()
+    {
+        if (fallClip == null || audioSource == null) return;
+        
+        audioSource.PlayOneShot(fallClip);
     }
 
     System.Collections.IEnumerator ScaleDecalOverTime(GameObject splash)

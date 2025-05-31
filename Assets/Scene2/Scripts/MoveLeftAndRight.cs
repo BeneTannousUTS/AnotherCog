@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MoveLeftAndRight : MonoBehaviour
 {
-    public float moveSpeed = 5f;
+    public float moveSpeed = 6f;
     
     private Animator animator;
 
