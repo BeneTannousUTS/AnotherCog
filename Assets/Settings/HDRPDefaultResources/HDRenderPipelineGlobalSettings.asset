@@ -254,7 +254,7 @@ MonoBehaviour:
           maximumLODLevelQualityLevel: 0
           sssQualityMode: 0
           sssQualityLevel: 0
-          sssCustomSampleBudget: 20
+          sssCustomSampleBudget: 100
           sssCustomDownsampleSteps: 0
           msaaMode: 1
           materialQuality: 0
@@ -270,7 +270,7 @@ MonoBehaviour:
           maximumLODLevelQualityLevel: 0
           sssQualityMode: 0
           sssQualityLevel: 0
-          sssCustomSampleBudget: 20
+          sssCustomSampleBudget: 100
           sssCustomDownsampleSteps: 0
           msaaMode: 1
           materialQuality: 0
@@ -286,7 +286,7 @@ MonoBehaviour:
           maximumLODLevelQualityLevel: 0
           sssQualityMode: 0
           sssQualityLevel: 0
-          sssCustomSampleBudget: 20
+          sssCustomSampleBudget: 100
           sssCustomDownsampleSteps: 0
           msaaMode: 1
           materialQuality: 0
@@ -310,8 +310,7 @@ MonoBehaviour:
           m_CustomPostProcessTypesAsString: []
         m_BeforeTAACustomPostProcesses:
           m_InjectionPoint: 3
-          m_CustomPostProcessTypesAsString:
-          - Cavity, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_CustomPostProcessTypesAsString: []
         m_BeforePostProcessCustomPostProcesses:
           m_InjectionPoint: 1
           m_CustomPostProcessTypesAsString: []

@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ThirdPart/ThirdPart.unity
+    guid: b0d789847f882bf4a8ed39204054a431
+  - enabled: 0
     path: Assets/MainScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
-  - enabled: 1
+  - enabled: 0
     path: Assets/BarrelQTE/QTE.unity
     guid: cd1b730ccc23e5849b78126d6e57284b
   m_configObjects:

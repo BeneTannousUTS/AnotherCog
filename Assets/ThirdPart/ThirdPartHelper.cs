@@ -12,6 +12,7 @@ public class ThirdPartHelper : MonoBehaviour
     public GameObject fireworks, cat1, cat2;
     public AudioSource catsource;
     public AudioSource catsource2;
+    public AudioSource footsource;
     public AudioClip catclip;
     public GameObject mask;
     private float maskSize = 2000f;
@@ -45,16 +46,18 @@ public class ThirdPartHelper : MonoBehaviour
         cat1.GetComponent<ParticleSystem>().Play();
         cat2.GetComponent<ParticleSystem>().Play();
         StartCoroutine("CatSounds");
+        workerAnim.SetTrigger("tired");
         yield return new WaitForSeconds(3);
         cat1.GetComponent<ParticleSystem>().Stop();
         cat2.GetComponent<ParticleSystem>().Stop();
-        workerAnim.SetTrigger("tired");
+        
         yield return new WaitForSeconds(5);
         workerAnim.transform.GetComponent<IKLookAt>().weight = 0;
         workerAnim.transform.GetComponent<IKLookAt>().target = bossHead;
         isLookingAtBoss = true;
         workerAnim.SetTrigger("fall");
         yield return new WaitForSeconds(8);
+        footsource.pitch = 3;
         isFadeOut = true;
     }
 
