@@ -26,7 +26,7 @@ public class ThirdPartHelper : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        cogAnim.speed = Mathf.Lerp(1, 0, t / 17);
+        cogAnim.speed = Mathf.Lerp(1, 0, t / 19.5f);
         t += Time.deltaTime;
         if (isLookingAtBoss) {
             workerAnim.transform.GetComponent<IKLookAt>().weight = Mathf.Lerp(0,1, bossT/4);
@@ -40,7 +40,7 @@ public class ThirdPartHelper : MonoBehaviour
     }
 
     public IEnumerator AnimationHelp() {
-        yield return new WaitForSeconds(4);
+        yield return new WaitForSeconds(6);
         StartCoroutine("Fireworks");
         yield return new WaitForSeconds(4);
         cat1.GetComponent<ParticleSystem>().Play();
