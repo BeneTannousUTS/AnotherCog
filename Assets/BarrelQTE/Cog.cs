@@ -19,7 +19,7 @@ public class Cog : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Pipe"))
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(2);
         }
     }
 }

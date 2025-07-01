@@ -4,7 +4,195 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7efa49cf-bd83-48af-9d83-eb90e0ad5367" name="Changes" comment="" />
+    <list default="true" id="7efa49cf-bd83-48af-9d83-eb90e0ad5367" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnotherCog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/AnimationClips.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/AnimationClips/Machn_1_Rotate.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/AnimationClips/Machn_1_Rotate.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/AnimationClips/Machn_1_UpDown.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/AnimationClips/Machn_1_UpDown.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/FullPack_1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/FullPack_1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/Machn_1_Rotate_Obj_1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/Machn_1_Rotate_Obj_1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/Machn_1_UpDown.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/Machn_1_UpDown.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/UI_Scale_Anim.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/UI_Scale_Anim.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/SampleSceneLightingSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/SampleSceneLightingSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/SampleSceneProfile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/SampleSceneProfile.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/Scene_URP.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/Scene_URP.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/UniversalRP-HighQuality.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/UniversalRP-HighQuality.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Low Poly Factory Pack Vol2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Low Poly Factory Pack Vol2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Low Poly Factory Pack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Low Poly Factory Pack.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_ColorPalette.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_ColorPalette.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Glass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Glass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_GlassBlack.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_GlassBlack.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Glass_MaskMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Glass_MaskMap.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Ground.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Ground.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Machn_Conveyor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Machn_Conveyor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Pack1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Pack1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Pack2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Pack2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Texture.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Texture.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Barrel.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Barrel.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Barrier.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Barrier.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/BoxWooden1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/BoxWooden1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Cone.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Cone.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Conveyor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Conveyor/Conveyor_Long.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Conveyor/Conveyor_Long.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Ground.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Ground.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/MachineMesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/MachineMesh/Machn_2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/MachineMesh/Machn_2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/PaletteWooden.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/PaletteWooden.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/Wall.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/Wall.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/WallCorner.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/WallCorner.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/WallDoorL.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/WallDoorL.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/WallDoorR.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Models/Walls/WallDoorR.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Canvas.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Canvas.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Cone.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Cone.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Conveyor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Conveyor/Conveyor_Long.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Conveyor/Conveyor_Long.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/FullPack_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/FullPack_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/FullPack_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/FullPack_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Machine.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Machine/Machn_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Machine/Machn_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Barrel.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Barrel.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Barrier.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Barrier.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/BoxWooden.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/BoxWooden.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Cone.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Cone.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Ground.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Ground.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/PaletteWooden.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/PaletteWooden.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/Wall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/Wall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/WallCorner.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/WallCorner.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/WallDoorL.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/WallDoorL.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/WallDoorR.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/WallDoorR.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Read Me Before Use!.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Read Me Before Use!.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Scripts/OpenLinkOnButtonClick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Scripts/OpenLinkOnButtonClick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/Arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/EK_Palette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/EK_Palette.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/ShineGlass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/ShineGlass.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/Texture.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/Texture.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/Tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/EKstudio/LowPoly Factory Machine Pack Demo/Textures/Tile.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BarrelQTE/Cog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BarrelQTE/Cog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag.outputdata" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag.outputdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag.payloads" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag.payloads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag_derived" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag_derived" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag_fsmtime" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/1900b0aE.dag_fsmtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.dll.mvfrm.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.dll.mvfrm.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll.mvfrm.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll.mvfrm.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/mvdfrm/Unity.Multiplayer.Center.Editor.ref.dll_EB1F4B6E56116D4A.mvfrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/mvdfrm/UnityEditor.OSXStandalone.Extensions.dll_89A9392BCDCE5785.mvfrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/artifacts/mvdfrm/UnityEditor.iOS.Extensions.Xcode.dll_E368E5BCD4294998.mvfrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/backend1.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/backend2.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/backend2.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/buildprogram0.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/BuildProfileContext.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/BuildProfileContext.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/BuildProfiles/PlatformProfile.4e3c793746204150860bf175a9a41a05.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/BuildProfiles/PlatformProfile.4e3c793746204150860bf175a9a41a05.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/BuildProfiles/PlatformProfile.84a3bb9e7420477f885e98145999eb20.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/BuildProfiles/PlatformProfile.84a3bb9e7420477f885e98145999eb20.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/BuildProfiles/SharedProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/BuildProfiles/SharedProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/EditorSnapSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/EditorSnapSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/PackageManager/ProjectCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/PackageManager/ProjectCache.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/PackageManager/projectResolution.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/PackageManager/projectResolution.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/Search/transactions.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/UndoData.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/UndoData.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/UndoStack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/UndoStack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Library/ilpp.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Logs/shadercompiler-UnityShaderCompiler.exe-0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Logs/shadercompiler-UnityShaderCompiler.exe-0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Logs/shadercompiler-UnityShaderCompiler.exe-0.log.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Logs/shadercompiler-UnityShaderCompiler.exe-0.log.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/SecondScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/SecondScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene2/Timeline/Scene2Timeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene2/Timeline/Scene2Timeline.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,19 +213,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "link-scenes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\moose\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\moose\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\moose\\AppData\\Local\\Symbols\\src"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.39f1\Editor\Unity.exe" />
@@ -60,9 +255,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -73,9 +265,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -101,6 +290,7 @@
       <workItem from="1748692398535" duration="644000" />
       <workItem from="1748693622806" duration="6491000" />
       <workItem from="1748704612026" duration="11436000" />
+      <workItem from="1751347950799" duration="408000" />
     </task>
     <servers />
   </component>
